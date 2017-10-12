@@ -1,5 +1,6 @@
 <?php
 
+// De waardes
 $x = 10;
 $y = 7;
 //$z = $x + $y
